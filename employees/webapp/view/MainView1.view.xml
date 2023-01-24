@@ -1,0 +1,3 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="logaligroup.employees.controller.MainView1" displayBlock="true">
+    <Page id="page" title="{i18n>title}" />
+</mvc:View>
